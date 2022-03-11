@@ -26,7 +26,7 @@
  * These two characteristics are combined  into one product, known as RKE. 
  * The world is PACE FORWARD, so our technology needs to catch up with the world.
 
-# W & H
+# 5W's & 1H
 
 * What: Car's remote control key.
 * Where: Surrounding's of car.
