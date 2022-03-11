@@ -37,3 +37,7 @@ This project is a BiCom system designed to remotely know car statues. The BiCom 
    * WHEN- Whenever the user wants to lock or unlock the door of the vehicle.
    * WHERE- It can be use anywhere
   
+  # SWOT ANALYSIS
+  
+  ![m3 Bio](https://user-images.githubusercontent.com/85921878/157919854-fa14a51c-0f56-42ee-a977-4188ea4d7c9a.jpeg)
+
