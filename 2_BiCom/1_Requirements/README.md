@@ -26,3 +26,14 @@ This project is a BiCom system designed to remotely know car statues. The BiCom 
 |LLR_02 |Pressing switch two time -It shall print the alarm status.|
 |LLR_03 |	Pressing the switch three time -It shall print the car battery info.|
 |LLR_04| 	Pressing the switch four times -It shall print the door status.|
+
+# 5W's &1H
+
+ 
+   * HOW- Can be operated by clicking a button .
+   * WHY- For an easy use of vehicle and security
+   *  WHO- People who have vehicle.
+   * WHAT- It is a system which wirelessly lock/unlock door of a vehicle and perform different functionalities.
+   * WHEN- Whenever the user wants to lock or unlock the door of the vehicle.
+   * WHERE- It can be use anywhere
+  
