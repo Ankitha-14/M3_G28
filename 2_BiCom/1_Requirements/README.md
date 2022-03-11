@@ -18,7 +18,8 @@ This project is a BiCom system designed to remotely know car statues. The BiCom 
 |HLR_02 | 	Print alarm status -It shall turn OFF all Leds at the same time.|
 |HLR_03 |Print car battery info -It shall turn ON Leds in clock wise manner.|
 |HLR_04 	|Print Door status -It shall turn ON Leds in anti clockwise manner.|
-2.2 Low Level Requirements
+
+# Low Level Requirements
 |ID| 	Description|
 |----|------------|
 |LLR_01| 	Pressing switch One time -It shall print the window status|
