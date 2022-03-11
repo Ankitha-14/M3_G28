@@ -18,3 +18,8 @@
 |LLR2 	|Light -It shall turn OFF All led on in anti-clockwise manner|
 |LLR3  |Locking car shall turn ON all the Led’s on at the same time|
 |LLR4 	|Unlocking car shall turn OFF all the Led’s on at the same time|
+
+# SWOT ANALYSIS
+
+![SWOT-Analysis-RKE](https://user-images.githubusercontent.com/85921878/157831221-2ab147db-2e74-4625-8930-c60eb24e75c4.jpg)
+
