@@ -19,6 +19,13 @@
 |LLR3  |Locking car shall turn ON all the Led’s on at the same time|
 |LLR4 	|Unlocking car shall turn OFF all the Led’s on at the same time|
 
+# State of Art
+
+* The main motto is to control the car. 
+ * Protects car with a reliable encryption system. 
+ * These two characteristics are combined  into one product, known as RKE. 
+ * The world is PACE FORWARD, so our technology needs to catch up with the world.
+
 # SWOT ANALYSIS
 
 ![SWOT-Analysis-RKE](https://user-images.githubusercontent.com/85921878/157831221-2ab147db-2e74-4625-8930-c60eb24e75c4.jpg)
