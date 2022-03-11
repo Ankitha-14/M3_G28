@@ -19,6 +19,16 @@
 |LLR3  |Locking car shall turn ON all the Led’s on at the same time|
 |LLR4 	|Unlocking car shall turn OFF all the Led’s on at the same time|
 
+# 5W's & 1H
+
+* What: Car's remote control key.
+* Where: Surrounding's of car.
+* Why: For security purpose.
+* When: When ever we go out and use the cars.
+* Who: Who needs to go and use .
+* How: Using switches.
+
+
 # SWOT ANALYSIS
 
 ![SWOT-Analysis-RKE](https://user-images.githubusercontent.com/85921878/157831221-2ab147db-2e74-4625-8930-c60eb24e75c4.jpg)
