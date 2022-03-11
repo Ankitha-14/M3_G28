@@ -13,6 +13,7 @@
 # Low level requirements
 
 |ID 	|Description|
+|-------|-----------------------------------------|
 |LR1 |	Alarm activation/deactivation -It shall turn On All Led’s in clockwise manner|
 |LR2 	|Light -It shall turn OFF All led on in anti-clockwise manner|
 |LR3  |Locking car shall turn ON all the Led’s on at the same time|
